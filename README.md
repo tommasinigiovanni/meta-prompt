@@ -2,6 +2,8 @@
 
 A meta-prompt instructs the model to create a good prompt based on your task description or improve an existing one. The meta-prompts in the Playground draw from our prompt engineering best practices and real-world experience with users.
 
+![Meta-Prompt Generator](./img/screenshot.png)
+
 ## Web Application (Docker)
 
 This repository includes a Docker-based web application that provides a user-friendly interface for generating optimized prompts.
